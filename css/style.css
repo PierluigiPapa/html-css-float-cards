@@ -33,18 +33,18 @@ body{
 
 header{
     text-align: center;
-    margin-bottom: 3rem;
+    margin-bottom: 20px;
 }
 
 h1{
     color: #E53170;
-    font-size: 3rem;
-    margin-bottom: 1rem;
+    font-size: 50px;
+    margin-bottom: 20px;
 }
 
 h2{
     color: black;
-    font-size: 1rem;
+    font-size: 20px;
     font-weight: 400;
 }
 
